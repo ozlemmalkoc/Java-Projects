@@ -1,0 +1,5 @@
+all: program
+
+program:
+			javac Dataset.java
+			java Dataset
